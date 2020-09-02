@@ -2,7 +2,7 @@
 
 import sys
 import os
-
+print ("Welcome, \n")
 fileName = input("Enter file name: ")
 
 if not os.path.isfile(fileName):
