@@ -5,6 +5,8 @@
 # Program displays game result (win, lose, draw)
 # Program then asks if they want to play again
 
+# EDIT-NOTE: this comment has been added to test editing code using github
+
 .data
 	choose: .asciiz "Enter [1] to choose rock, enter [2] to choose paper, enter [3] to choose scissors: "
 	players_choice: .asciiz "You chose "
